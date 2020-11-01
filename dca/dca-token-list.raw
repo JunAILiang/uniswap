@@ -1,25 +1,24 @@
 {
-  "name": "DCA",
-  "logoURI": "https://github.com/JunAILiang/uniswap/blob/main/dca/dca.png",
-  "keywords": [
-    "defi",
-    "DEFI",
-    "DCA"
-  ],
-  "timestamp": "2020-10-01T00:00:00+00:00",
-  "tokens": [
-    {
-      "chainId": 1,
-      "address": "0x658b59c61e3efe8c993311cc045edb94d14c5867",
-      "name": "DCA",
-      "symbol": "DCA",
-      "decimals": 18,
-      "logoURI": "https://github.com/JunAILiang/uniswap/blob/main/dca/dca.png"
-    }
-  ],
+  "name": "dca",
+  "timestamp": "2020-09-17T00:12:46.685Z",
   "version": {
-    "major": 1,
+    "major": 0,
     "minor": 0,
     "patch": 0
-  }
+  },
+  "logoURI": "https://raw.githubusercontent.com/JunAILiang/uniswap/main/dca/dca.png",
+  "keywords": [
+    "uniswap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "dca",
+      "address": "0x658b59c61e3efe8c993311cc045edb94d14c5867",
+      "symbol": "dca",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/JunAILiang/uniswap/main/dca/dca.png"
+    }
+  ]
 }
