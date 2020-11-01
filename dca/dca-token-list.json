@@ -1,6 +1,6 @@
 {
   "name": "DCA",
-  "logoURI": "https://www.xxxxxxxxxxxx/logo.png",
+  "logoURI": "https://github.com/JunAILiang/uniswap/blob/main/dca/dca.png",
   "keywords": [
     "defi",
     "DEFI",
@@ -14,7 +14,7 @@
       "name": "DCA",
       "symbol": "DCA",
       "decimals": 18,
-      "logoURI": "https://www.xxxxxxxxxxxx/logo.png"
+      "logoURI": "https://github.com/JunAILiang/uniswap/blob/main/dca/dca.png"
     }
   ],
   "version": {
