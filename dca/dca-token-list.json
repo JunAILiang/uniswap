@@ -1,5 +1,5 @@
 {
-  "name": "Uniswap Default List",
+  "name": "dca",
   "timestamp": "2020-09-17T00:12:46.685Z",
   "version": {
     "major": 0,
@@ -15,8 +15,8 @@
     {
       "name": "dca",
       "address": "0x658b59c61e3efe8c993311cc045edb94d14c5867",
-      "symbol": "0xdca",
-      "decimals": 8,
+      "symbol": "dca",
+      "decimals": 18,
       "chainId": 1,
       "logoURI": "https://raw.githubusercontent.com/JunAILiang/uniswap/main/dca/dca.png"
     }
