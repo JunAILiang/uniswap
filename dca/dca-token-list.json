@@ -1,6 +1,6 @@
 {
   "name": "DCA",
-  "logoURI": "https://github.com/JunAILiang/uniswap/blob/main/dca/dca.png",
+  "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF5238462E7235c7B62811567E63Dd17d12C2EAA0/logo.png",
   "keywords": [
     "defi",
     "DEFI",
@@ -14,7 +14,7 @@
       "name": "DCA",
       "symbol": "DCA",
       "decimals": 18,
-      "logoURI": "https://github.com/JunAILiang/uniswap/blob/main/dca/dca.png"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF5238462E7235c7B62811567E63Dd17d12C2EAA0/logo.png"
     }
   ],
   "version": {
