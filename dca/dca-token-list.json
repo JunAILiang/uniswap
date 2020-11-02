@@ -16,7 +16,7 @@
       "name": "DCA",
       "address": "0x658b59c61e3efe8c993311cc045edb94d14c5867",
       "symbol": "DCA",
-      "decimals": 10,
+      "decimals": 12,
       "chainId": 1,
       "logoURI": "https://raw.githubusercontent.com/JunAILiang/uniswap/main/dca/dca.png"
     }
